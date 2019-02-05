@@ -1,8 +1,9 @@
-Problem: Navigate to the address provided after solving cloud 2.
+# Problem: 
+Navigate to the address provided after solving cloud 2.
 
 ![cloud3-problem](https://github.com/ryokubaka/CTF-Write-Ups/blob/master/NeverLAN-CTF-2019/Cloud/Images/cloud3-problem.jpg?raw=true)
 
-Process:
+## Process:
 
 Peculiarly, there is a “Fork me on Github!” link in the top right of this page. When we go to that page, we can see this sites git page, to include the flag page!
 
@@ -14,7 +15,7 @@ The source code isn’t any help:
 
 So we copy the object/flag URL and append it to the level3 bucket in our browser instead of viewing it through github, and find the real flag.
 
-Flag:
+## Flag:
 
 ![cloud3-flag](https://github.com/ryokubaka/CTF-Write-Ups/blob/master/NeverLAN-CTF-2019/Cloud/Images/cloud3-flag.jpg?raw=true)
 
