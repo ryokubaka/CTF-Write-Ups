@@ -21,4 +21,6 @@ So we copy the object/flag URL and append it to the level3 bucket in our browser
 
 flag{ThisIsntTheRealFlagEither}
 
-Note: Funny thing happened when I solved this - I thought it was odd they'd name the flag that way, almost as if that wasn't the true flag.  While for this CTF it WAS correct, it was not supposed to be.  After speaking with an admin, he opened up cloud 3.5 which is what Cloud 3 was supposed to be.  Glad I caught the mistake!
+
+### Note: 
+Funny thing happened when I solved this - I thought it was odd they'd name the flag that way, almost as if that wasn't the true flag.  While for this CTF it WAS correct, it was not supposed to be.  After speaking with an admin, he opened up cloud 3.5 which is what Cloud 3 was supposed to be.  Glad I caught the mistake!
