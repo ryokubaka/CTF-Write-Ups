@@ -1,5 +1,5 @@
 ## Team
-Warrior-Companions
+> Warrior-Companions
 
 ### Binary
 ```
