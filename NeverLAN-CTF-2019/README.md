@@ -12,12 +12,12 @@
  - Unexpected Intruder - done
  - Purvesta - no write-up **
  - Let's go way back - done
- - Filling a need - no write-up **
+ - Filling a need - done
+ - It's to KeyZ - no write-up **
+ - TeachThemToHack - done
  - Jackalope's Live set - solved/no write-up (DJ SET)
  - Tineh Numjeh's Live set - solved/no write-up (DJ SET)
- - it's to KeyZ - no write-up **
  - S7a73farm live set - solved/no write-up (DJ SET)
- - TeachThemToHack - done
 ```
 
 ### Scripting/Coding
