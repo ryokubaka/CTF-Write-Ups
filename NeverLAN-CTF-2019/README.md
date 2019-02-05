@@ -10,14 +10,14 @@
 ### Recon
 ```
  - Unexpected Intruder - done
- - Purvesta - no write-up **
  - Let's go way back - done
  - Filling a need - done
- - It's to KeyZ - no write-up **
  - TeachThemToHack - done
  - Jackalope's Live set - solved/no write-up (DJ SET)
  - Tineh Numjeh's Live set - solved/no write-up (DJ SET)
  - S7a73farm live set - solved/no write-up (DJ SET)
+ - It's to KeyZ - no write-up **
+ - Purvesta - no write-up **
 ```
 
 ### Scripting/Coding
@@ -67,10 +67,10 @@
 ```
  - React To This - done
  - Dirty Validate - done
- - Things are not as they seem - no write-up **
  - SQL Fun 1 - done
--  SQL Fun2 - done
-- Console - no write-up **
+ -  SQL Fun2 - done
+ - Console - no write-up **
+ - Things are not as they seem - no write-up **
 ```
 
 ### Trivia
