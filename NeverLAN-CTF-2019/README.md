@@ -1,7 +1,7 @@
 ## Team
 > Warrior-Companions
 
-### Binary
+### [Binary](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Binary)
 ```
  - Binary 1 - done
  - Binary 2 - done
@@ -9,7 +9,7 @@
  - Binary 4 - no write-up **
 ```
 
-### Recon
+### [Recon](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Recon)
 ```
  - Unexpected Intruder - done
  - Let's go way back - done
@@ -22,13 +22,13 @@
  - Purvesta - no write-up **
 ```
 
-### Scripting/Coding
+### [Scripting/Coding](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Scripting)
 ```
  - Just you wait - no write-up **
  - WebCipher - no write-up **
 ```
 
-### BashNinjas Bash Games
+### [BashNinjas Bash Games](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/BashNinja-Bash-Games)
 ```
  - Bash1 - done
  - Bash2 - done
@@ -42,7 +42,7 @@
  - Bash10 - done
 ```
 
-### Cloud
+### [Cloud](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Cloud)
 ```
  - In the Cloud 1 - done
  - In the Cloud 2 - done
@@ -50,7 +50,7 @@
  - In the Cloud 3.5 - done
 ```
 
-### Crypto
+### [Crypto](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Crypto)
 ```
  - Alphabet Soup - done
  - Super Old School - done
@@ -58,14 +58,14 @@
  - Febrary 14th - no write-up **
 ```
 
-### Forensics
+### [Forensics](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Forensics)
 ```
  - Return of the Sith - Part 1 - done
  - Return of the Sith - Part 2 - no write-up **
  - Return of the Sith - Part 3 - no write-up **
 ```
 
-### Web
+### [Web](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Web)
 ```
  - React To This - done
  - Dirty Validate - done
@@ -75,7 +75,7 @@
  - Things are not as they seem - no write-up **
 ```
 
-### Trivia
+### [Trivia](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Trivia)
 ```
  - SQL Trivia 1 - done
  - SQL Trivia 2 - done
