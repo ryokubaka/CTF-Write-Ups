@@ -1,4 +1,4 @@
-# Cloud
+# Cloud Solutions
 ## Table of Contents
 1. [In The Cloud 1](#In-The-Cloud-1)
 2. [In The Cloud 2](#In-The-Cloud-2)

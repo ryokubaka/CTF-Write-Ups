@@ -1,4 +1,9 @@
-# Problem: 
+# Scripting Solutions
+## Table of Contents
+1. [Just You Wait](#Just-You-Wait)
+
+# Just You Wait
+## Problem: 
 "It's going to be a long day... and night."
 
 ## Process: 

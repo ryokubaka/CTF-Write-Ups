@@ -1,4 +1,4 @@
-# BashNinja Bash Games
+# BashNinja Bash Games Solutions
 ## Table of Contents
 1. [Bash 1](#Bash-1)
 2. [Bash 2](#Bash-2)

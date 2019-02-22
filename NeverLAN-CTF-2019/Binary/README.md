@@ -1,4 +1,4 @@
-# Binary
+# Binary Solutions
 ## Table of Contents
 1. [Binary 1](#Binary-1)
 2. [Binary 2](#Binary-2)
