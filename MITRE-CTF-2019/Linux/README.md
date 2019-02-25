@@ -2,7 +2,7 @@
 ## Table of Contents
 1. [Clean Room (50 points)](#Clean-Room)
 2. [Getting A Head (100 points)](#Getting-A-Head)
-3. [January 8, 2014 (150 points)](#Janaury-8-2014)
+3. [January 8, 2014 (150 points)](#January-8-2014)
 
 # Clean Room
 ## Problem
