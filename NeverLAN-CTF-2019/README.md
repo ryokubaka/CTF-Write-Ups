@@ -1,5 +1,5 @@
 ## Team
-> Warrior-Companions
+> Warrior-Companions - 6805 points, 53 out of 1352 teams
 
 ### [Binary](https://github.com/ryokubaka/CTF-Write-Ups/tree/master/NeverLAN-CTF-2019/Binary)
 ```
