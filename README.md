@@ -1,10 +1,21 @@
 # CTF-Write-Ups
 Personal collection of CTF write up/solutions
 
-- [NeverLAN CTF](https://neverlanctf.com/)
-  - January 31 - February 3, 2019
-  - Team "Warrior Companions" - Placed 53 of 1352 registered teams (6805 points; top scorer 8225 points)
+## [Army Cyber Institute (ACI) CTF](https://www.acictf.com/)
 
-- [MITRE CTF](https://mitrestemctf.org/)
-  - February 22 - February 23 (24 hr)
-  - Team "Warrior Companions" - Placed 55 of 402 registered teams (950 points, top scorer 3900)
+Date | Event Type | Team Name | Members | Place | Score
+---  | ---        | ---       | ---     | ---   | ---  
+November 30 - December 9, 2018 | Individual | N/A | Ryokubaka | 36th of 267 (Officer), 86th of 1075 (Overall) | 1025 points 
+ .
+## [NeverLAN CTF](https://neverlanctf.com/)
+
+Date | Event Type | Team Name | Members | Place | Score
+---  | ---        | ---       | ---     | ---   | ---  
+January 31 - Feburary 3, 2019 | Team | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, zipponline | 53rd of 1352 | 6805 points
+ .
+## [MITRE CTF](https://mitrestemctf.org/)
+
+Date | Event Type | Team Name | Members | Place | Score
+---  | ---        | ---       | ---     | ---   | ---  
+February 22 - February 23 (24 hr) | Team | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, zipponline | 55th of 402 | 950 points
+ .
