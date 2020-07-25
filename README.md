@@ -33,3 +33,4 @@ February 22 - March 3, 2019 | Team, Online | Warrior Companions | Ryokubaka, Jey
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 March 28, 2019 | Team, In Person | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, zipponline | 1st of 11 (Overall), 2nd of 35 (individual) | 3720 points
+July 25, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, Cyberessef | 1st of 22 (Overall) | 6337 points
