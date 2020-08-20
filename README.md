@@ -38,4 +38,5 @@ July 24, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, Jeymo, Cyber Squ
 ## [President's Cup](https://https://presidentscup.cisa.gov/)
 
 Date | Event Type | Team Name | Members | Place | Score
+---  | ---        | ---       | ---     | ---   | ---  
 (ROUND 1) August 16, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, CyberEssef, Smileyman, Ed, J.T. | 24 of 194 (Overall) | 7000 points
