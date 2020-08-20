@@ -6,6 +6,7 @@ Personal collection of CTF write up/solutions
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 November 30 - December 9, 2018 | Individual, Online | N/A | Ryokubaka | 36th of 267 (Officer), 86th of 1075 (Overall) | 1025 points 
+April 24 - May 3, 2020 | Individual, Online | N/A | 0xd4db33f | ? of ? | 2300 points
 
 ## [NeverLAN CTF](https://neverlanctf.com/) 
 [Official Github](https://github.com/NeverLAN-CTF)
