@@ -32,7 +32,9 @@ July 24, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, Jeymo, Cyber Squ
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
-(ROUND 1) August 16, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, CyberEssef, Smileyman, Ed, J.T. | 24 of 194 (Overall) | 7000 points
+(ROUND 1) August 16, 2020 | Team, Virtual | Warrior Companions | 0xd4db33f, CyberEssef, Smileyman, Ed, J.T. | 24 of 194 (Overall) | 7000 points
+(ROUND 1) August 29, 2020 | Solo, Track A | N/A | 0xd4db33f | 23 of 305 (Overall) | 4550 points
+(ROUND 1) August 30, 2020 | Solo, Track B | N/A| 0xd4db33f | 36 of 278 (Overall) | 3750 points
 
  ## [SANS NetWars] 
 
