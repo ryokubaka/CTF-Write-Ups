@@ -28,7 +28,7 @@ Date | Event Type | Team Name | Members | Place | Score
 March 28, 2019 | Team, In Person | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, zipponline | 1st of 11 (Overall), 2nd of 35 (individual) | 3720 points
 July 24, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, Cyberessef | 1st of 22 (Overall) | 6337 points
 
-## [President's Cup](https://https://presidentscup.cisa.gov/)
+## [President's Cup](https://www.cisa.gov/presidentscup)
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
