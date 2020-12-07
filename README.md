@@ -13,20 +13,20 @@ April 24 - May 3, 2020 | Individual, Online | N/A | 0xd4db33f | ? of ? | 2300 po
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
-January 31 - Feburary 3, 2019 | Team, Online | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, zipponline | 53rd of 1352 | 6805 points
+January 31 - Feburary 3, 2019 | Team, Online | Warrior Companions | Ryokubaka, Jeymo, An0nym0s3, zipponline | 53rd of 1352 | 6805 points
 
 ## [MITRE CTF](https://mitrestemctf.org/)
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
-February 22 - February 23 (24 hr) | Team, Online | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, zipponline | 55th of 402 | 950 points
+February 22 - February 23 (24 hr) | Team, Online | Warrior Companions | Ryokubaka, Jeymo, An0nym0s3, zipponline | 55th of 402 | 950 points
 
 ## [Parsons Cyber CTF](https://parsonscyber.com)
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
-March 28, 2019 | Team, In Person | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, zipponline | 1st of 11 (Overall), 2nd of 35 (individual) | 3720 points
-July 24, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, Cyberessef | 1st of 22 (Overall) | 6337 points
+March 28, 2019 | Team, In Person | Warrior Companions | Ryokubaka, Jeymo, An0nym0s3, zipponline | 1st of 11 (Overall), 2nd of 35 (individual) | 3720 points
+July 24, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, Jeymo, An0nym0s3, Cyberessef | 1st of 22 (Overall) | 6337 points
 
 ## [President's Cup](https://www.cisa.gov/presidentscup)
 
@@ -52,4 +52,4 @@ June 25, 2020 | Team, Virtual, Mini Mission 4 | WarriorCompanions | Ryokubaka, C
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
-February 22 - March 3, 2019 | Team, Online | Warrior Companions | Ryokubaka, Jeymo, Cyber Squirrel, zipponline | 403rd of 1899 (Overall), 3 of 10 (DoD, Active, Guard, Reserve)  | 4401 points
+February 22 - March 3, 2019 | Team, Online | Warrior Companions | Ryokubaka, Jeymo, An0nym0s3, zipponline | 403rd of 1899 (Overall), 3 of 10 (DoD, Active, Guard, Reserve)  | 4401 points
