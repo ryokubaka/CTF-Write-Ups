@@ -53,3 +53,9 @@ June 25, 2020 | Team, Virtual, Mini Mission 4 | WarriorCompanions | Ryokubaka, C
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 February 22 - March 3, 2019 | Team, Online | Warrior Companions | Ryokubaka, Jeymo, An0nym0s3, zipponline | 403rd of 1899 (Overall), 3 of 10 (DoD, Active, Guard, Reserve)  | 4401 points
+
+## [CactusCon CTF](https://cactuscon.com/)
+
+Date | Event Type | Team Name | Members | Place | Score
+---  | ---        | ---       | ---     | ---   | ---  
+February 5, 2021 | Individual, Online | N/A | Ryokubaka | 7th of 415 (Overall) | 1561 points
