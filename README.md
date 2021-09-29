@@ -38,6 +38,7 @@ Date | Event Type | Team Name | Members | Place | Score
 (ROUND 2) September 26, 2020 | Solo, Track A (Incident Response/Forensics) | N/A | 0xd4db33f | 26 of 87 (Qualifiers) | 3320 points
 (ROUND 1) August 30, 2020 | Solo, Track B (Exploitation Analysis/Vulnerability Assessment) | N/A | 0xd4db33f | 35 (tie) of 278 (Overall) | 3750 points (Qualified for Round 2)
 (ROUND 2) September 27, 2020 | Solo, Track B (Exploitation Analysis/Vulnerability Assessment) | N/A | 0xd4db33f | 36 of 88 (Qualifiers) | 2625 points
+(ROUND 1) September 19, 2021 | Team, Virtual | Warrior Companions | 0d4db33f, CyberEssef, masquerade, J.T, R.W. | 37 of 208 (Overall) | 7755 points (Qualified for Round 2)
 
 
  ## [SANS NetWars] 
