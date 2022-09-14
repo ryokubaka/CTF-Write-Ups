@@ -53,7 +53,8 @@ Date | Event Type | Team Name | Members | Place | Score
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 `2022`
-(ROUND 1) August 28, 2022 | Team, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, R.W. | 35 of 226 (Teams) | 7600 points (Qualified for Round 2)(ROUND 1) September 9, 2022 | Solo, Track A (Incident Response/Forensics) | N/A | 0xd4db33f | 37 of 294 (Teams) | 3525 points (Qualified for Round 2)
+(ROUND 1) August 28, 2022 | Team, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, R.W. | 35 of 226 (Teams) | 7600 points (Qualified for Round 2)
+(ROUND 1) September 9, 2022 | Solo, Track A (Incident Response/Forensics) | N/A | 0xd4db33f | 37 of 294 (Teams) | 3525 points (Qualified for Round 2)
 (ROUND 1) September 12, 2022 | Solo, Track B (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 133 of 242 (Teams) | 1840 points (Did not qualify for Round 2)
 
 
