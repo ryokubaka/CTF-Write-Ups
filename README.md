@@ -83,7 +83,7 @@ February 5, 2021 | Solo, Virtual | N/A | Ryokubaka | 7th of 415 (Overall) | 1561
 ## [Cyber Talents Best Cyber Warrior]
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
-October 9-10, 2021 | Team, Virtual | Warrior Companions | Ryokubaka,JatWo31 | 8th of 25 (Overall) | 575 points
+October 9-10, 2022 | Team, Virtual | Warrior Companions | Ryokubaka, JatWo31 | 8th of 25 (Overall) | 575 points
 
 ## [VetSecCon CTF]
 Date | Event Type | Team Name | Members | Place | Score
