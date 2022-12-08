@@ -27,6 +27,7 @@ Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 March 28, 2019 | Team, In Person | Warrior Companions | Ryokubaka, Jeymo, An0nym0s3, zipponline | 1st of 11 (Overall), 2nd of 35 (individual) | 3720 points
 July 24, 2020 | Team, Virtual | Warrior Companions | Ryokubaka, Jeymo, An0nym0s3, Cyberessef | 1st of 22 (Overall) | 6337 points
+Dec 8, 2022 | Team, Virtual | Warrior Companions | 0xd4db33f, CyberEssef, ed | 2nd of 17 (Overall) | 5328 points
 
 ## [President's Cup](https://www.cisa.gov/presidentscup)
 
