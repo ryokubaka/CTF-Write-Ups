@@ -91,3 +91,8 @@ October 9-10, 2022 | Team, Virtual | Warrior Companions | Ryokubaka, JatWo31 | 8
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 October 27-28, 2022 | Solo, Virtual | N/A |  0xd4db33f | 1 (tie) of 82 | 3400 points
+
+## [CISA ICSJWG CTF](https://www.cisa.gov/resources-tools/groups/industrial-control-systems-joint-working-group-icsjwg)
+Date | Event Type | Team Name | Members | Place | Score
+---  | ---        | ---       | ---     | ---   | ---  
+May 6-11, 2023 | Team, Virtual (ran solo) | WarriorCompanions | Ryokubaka | 11 of 595 | 9410/14000 points
