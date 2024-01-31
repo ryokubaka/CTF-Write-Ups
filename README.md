@@ -62,6 +62,12 @@ Date | Event Type | Team Name | Members | Place | Score
 (ROUND 2) October 24, 2022 | Solo, Virtual, Track A (Incident Response/Forensics) | N/A | 0xd4db33f | 3 of 72 | 3540 points (Qualified for FINALS!! Top 10!)
 (FINALS) December 5, 2022 | Solo, In Person, Track A (Incident Response/Forensics) | N/A | 0xd4db33f | 7 of 8 | | 2160 points (Had a great time though :P)
 
+Date | Event Type | Team Name | Members | Place | Score
+---  | ---        | ---       | ---     | ---   | ---  
+`2024`
+(ROUND 1) January 20, 2024 | Team, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, luke2.0 | 43 of 235 (Teams) | 5540 points (Qualified for Round 2)
+
+
  ## [SANS NetWars] 
 
 Date | Event Type | Team Name | Members | Place | Score
