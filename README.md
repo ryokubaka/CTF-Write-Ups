@@ -66,7 +66,8 @@ Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 `2024`
 (ROUND 1) January 20, 2024 | Team, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, luke2.0 | 43 of 235 (Teams) | 5540 points (Qualified for Round 2)
-
+(ROUND 1) February 7, 2024 | Solo, Virtual, Track A (Incident Response/Forensics) | N/A | 0xd4db33f | 17 of 347 | 3110 points (Qualified for Round 2)
+(ROUND 1) February 6, 2024 | Solo, Virtual, Track B (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 27 of 307 | 3100 points (Qualified for Round 2)
 
  ## [SANS NetWars] 
 
