@@ -35,42 +35,42 @@ March 29, 2023 | Team, Virtual | Warrior Companions | 0xd4db33f (ran solo) | 2nd
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 `2020`
-(ROUND 1) August 16, 2020 | **Team**, Virtual | Warrior Companions | 0xd4db33f, CyberEssef, Smileyman, Ed, jptsniper | 24 of 194 (Teams) | 7000 points (Qualified for Round 2)
-(ROUND 1) August 29, 2020 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 21 of 305 (Individuals) | 4550 points (Qualified for Round 2)
-(ROUND 1) August 30, 2020 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 35 of 278 (Individuals) | 3750 points (Qualified for Round 2)
-(ROUND 2) September 13, 2020 | **Team**, Virtual | Warrior Companions | 0xd4db33f, CyberEssef, Smileyman, Ed, jptsniper | 28 of 52 (Teams) | 4587.5 points (Did Not Qualify For Finals)
-(ROUND 2) September 26, 2020 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 26 of 87 (Individuals) | 3320 points (Did Not Qualify For Finals)
-(ROUND 2) September 27, 2020 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 36 of 88 (Individuals) | 2625 points (Did Not Qualify For Finals)
+<ins>ROUND 1</ins> August 16, 2020 | **Team**, Virtual | Warrior Companions | 0xd4db33f, CyberEssef, Smileyman, Ed, jptsniper | 24 of 194 (Teams) | 7000 points (Qualified for Round 2)
+<ins>ROUND 1</ins> August 29, 2020 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 21 of 305 (Individuals) | 4550 points (Qualified for Round 2)
+<ins>ROUND 1</ins> August 30, 2020 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 35 of 278 (Individuals) | 3750 points (Qualified for Round 2)
+<ins>ROUND 2</ins> September 13, 2020 | **Team**, Virtual | Warrior Companions | 0xd4db33f, CyberEssef, Smileyman, Ed, jptsniper | 28 of 52 (Teams) | 4587.5 points (Did Not Qualify For Finals)
+<ins>ROUND 2</ins> September 26, 2020 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 26 of 87 (Individuals) | 3320 points (Did Not Qualify For Finals)
+<ins>ROUND 2</ins> September 27, 2020 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 36 of 88 (Individuals) | 2625 points (Did Not Qualify For Finals)
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 `2021`
-(ROUND 1) September 19, 2021 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, masquerade, jptsniper, R.W. | 37 of 208 (Teams) | 7755 points (Qualified for Round 2)
-(ROUND 1) October 2, 2021 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 125 of 332 (Individuals) | 1970 points (Did Not Qualify For Round 2)
-(ROUND 1) October 3, 2021 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 37 of 259 (Individuals) | 2445 points (Qualified for Round 2)
-(ROUND 2) October 24, 2021 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, jptsniper, R.W. (down 1) | 39 of 54 (Teams) | 5142 points (Did Not Qualify for Finals)
-(ROUND 2) Did not compete due to time | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | Too busy on deployment | 0 points
+<ins>ROUND 1</ins> September 19, 2021 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, masquerade, jptsniper, R.W. | 37 of 208 (Teams) | 7755 points (Qualified for Round 2)
+<ins>ROUND 1</ins> October 2, 2021 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 125 of 332 (Individuals) | 1970 points (Did Not Qualify For Round 2)
+<ins>ROUND 1</ins> October 3, 2021 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 37 of 259 (Individuals) | 2445 points (Qualified for Round 2)
+<ins>ROUND 2</ins> October 24, 2021 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, jptsniper, R.W. (down 1) | 39 of 54 (Teams) | 5142 points (Did Not Qualify for Finals)
+<ins>ROUND 2</ins> Did not compete due to time | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | Too busy on deployment | 0 points
 
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 `2022`
-(ROUND 1) August 28, 2022 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, R.W. | 35 of 226 (Teams) | 7600 points (Qualified for Round 2)
-(ROUND 1) September 9, 2022 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 37 of 294 | 3525 points (Qualified for Round 2)
-(ROUND 1) September 12, 2022 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 133 of 242 | 1840 points (Did not qualify for Round 2)
-(ROUND 2) October 2, 2022 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, R.W. | 31 of 46 (Teams) | 6900 (nice) points (Did not qualify for Finals)
-(ROUND 2) October 24, 2022 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 3 of 72 | 3540 points (Qualified for FINALS!! Top 10!)
-(FINALS) December 5, 2022 | Solo, In Person, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 7 of 8 | | 2160 points (Had a great time though :P)
+<ins>ROUND 1</ins> August 28, 2022 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, R.W. | 35 of 226 (Teams) | 7600 points (Qualified for Round 2)
+<ins>ROUND 1</ins> September 9, 2022 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 37 of 294 | 3525 points (Qualified for Round 2)
+<ins>ROUND 1</ins> September 12, 2022 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 133 of 242 | 1840 points (Did not qualify for Round 2)
+<ins>ROUND 2</ins> October 2, 2022 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, R.W. | 31 of 46 (Teams) | 6900 (nice) points (Did not qualify for Finals)
+<ins>ROUND 2</ins> October 24, 2022 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 3 of 72 | 3540 points (Qualified for FINALS!! Top 10!)
+<ins>FINALS</ins> December 5, 2022 | Solo, In Person, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 7 of 8 | | 2160 points (Had a great time though :P)
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
 `2024`
-(ROUND 1) January 20, 2024 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, luke2.0 | 43 of 235 (Teams) | 5540 points (Qualified for Round 2)
-(ROUND 1) February 7, 2024 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 17 of 347 | 3110 points (Qualified for Round 2)
-(ROUND 1) February 6, 2024 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 27 of 307 | 3100 points (Qualified for Round 2)
-(ROUND 2) February 25, 2024 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, luke2.0 | 95 of 137 (Teams) | 2240 points (Did Not Qualify For Finals)
-(ROUND 2) March 9, 2024 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 51 of 82 (Individuals) | 1260 points (Did Not Qualify For Finals)
-(ROUND 2) March 10, 2024 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 46 of 120 (Individuals) | 3150 points (Did Not Qualify For Finals)
+<ins>ROUND 1</ins> January 20, 2024 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, luke2.0 | 43 of 235 (Teams) | 5540 points (Qualified for Round 2)
+<ins>ROUND 1</ins> February 7, 2024 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 17 of 347 | 3110 points (Qualified for Round 2)
+<ins>ROUND 1</ins> February 6, 2024 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 27 of 307 | 3100 points (Qualified for Round 2)
+<ins>ROUND 2</ins> February 25, 2024 | **Team**, Virtual | Warrior Companions | 0d4db33f, CyberEssef, Ed, jptsniper, luke2.0 | 95 of 137 (Teams) | 2240 points (Did Not Qualify For Finals)
+<ins>ROUND 2</ins> March 9, 2024 | Solo, Virtual, **Track A** (Incident Response/Forensics) | N/A | 0xd4db33f | 51 of 82 (Individuals) | 1260 points (Did Not Qualify For Finals)
+<ins>ROUND 2</ins> March 10, 2024 | Solo, Virtual, **Track B** (Exploitation/Vulnerability Assessment) | N/A | 0xd4db33f | 46 of 120 (Individuals) | 3150 points (Did Not Qualify For Finals)
 
  ## [SANS NetWars] 
 
