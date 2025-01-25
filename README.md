@@ -81,8 +81,9 @@ Date | Event Type | Team Name | Members | Place | Score
 
 Date | Event Type | Team Name | Members | Place | Score
 ---  | ---        | ---       | ---     | ---   | ---  
-February 21, 2020 | Team, In Person, Core NetWars | WarriorCompanions | Ryokubaka, slaytoncy | 2 of ? | 211 points
+February 21, 2020 | Team, In Person, Core NetWars | WarriorCompanions | Ryokubaka, slaytoncy | 2 of ? | 211 points (earned NetWars coin)
 June 25, 2020 | Team, Virtual, Mini Mission 4 | WarriorCompanions | Ryokubaka, CyberEssef | Tied for 2 of ? | 89 (of 90 points) 
+June 7-8, 2024 | Individual, In Person, Cyber Shield NetWars | N/A | 0xd4db33f | 3rd of ? | 5607 points (earned NetWars coin)
 
 ## [TAMU CTF](https://tamuctf.com/) 
 [Official Github](https://github.com/tamuctf/TAMUctf-2019)
